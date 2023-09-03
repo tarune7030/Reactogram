@@ -1,7 +1,7 @@
 # Reactogram (Instagram clone using MERN stack)
 
 ## Features of Reactogram
-###Reactogram app is an instagram clone application where users can register, login and create post with images.
+### Reactogram app is an instagram clone application where users can register, login and create post with images.
 
 - Other users can view, like, comment on different posts
 - User can sign up.
