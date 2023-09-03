@@ -1,7 +1,7 @@
-### Reactogram (Instagram clone using MERN stack)
+# Reactogram (Instagram clone using MERN stack)
 
-# Features of Reactogram
-Reactogram app is an instagram clone application where users can register, login and create post with images.
+## Features of Reactogram
+###Reactogram app is an instagram clone application where users can register, login and create post with images.
 
 - Other users can view, like, comment on different posts
 - User can sign up.
@@ -16,7 +16,7 @@ Reactogram app is an instagram clone application where users can register, login
 - User can see all thier posts.
 - User can edit profile.
 
-# How to run this project on your local system?
+## How to run this project on your local system?
 1. Go to the "frontend" folder, open the frontend folder in an integrated terminal and run command npm install to install all the dependencies.
 
 2. Now to run the fronted on your local system, run the command npm start. Your app will now be running on localhost:3000
